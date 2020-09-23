@@ -1,0 +1,59 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "random quote generator",
+            "description": "My first techdegree project",
+            "technologies": ["javascript", "css"],
+            "live_link": "",
+            "github_link": "https://github.com/melpre/Techdegree-Project-6",
+            "image_urls": [
+
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "list pagination and filter",
+            "description": "My second techdegree project",
+            "technologies": ["javascript", "css"],
+            "live_link": "",
+            "github_link": "https://github.com/melpre/Techdegree-Project-6",
+            "image_urls": [
+
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "interactive form",
+            "description": "My third techdegree project",
+            "technologies": ["javascript", "css"],
+            "live_link": "",
+            "github_link": "https://github.com/melpre/Techdegree-Project-6",
+            "image_urls": [
+
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "phrase hunter game",
+            "description": "My fourth techdegree project",
+            "technologies": ["javascript", "css"],
+            "live_link": "",
+            "github_link": "https://github.com/melpre/Techdegree-Project-6",
+            "image_urls": [
+
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "public api requests",
+            "description": "My fifth techdegree project",
+            "technologies": ["javascript", "css"],
+            "live_link": "",
+            "github_link": "https://github.com/melpre/Techdegree-Project-6",
+            "image_urls": [
+
+            ]
+        }
+    ]
+}
