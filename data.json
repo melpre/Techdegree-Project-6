@@ -4,56 +4,46 @@
             "id": 0,
             "project_name": "random quote generator",
             "description": "My first techdegree project",
-            "technologies": ["javascript", "css"],
+            "technologies": ["javascript", "css", "html"],
             "live_link": "",
             "github_link": "https://github.com/melpre/Techdegree-Project-6",
-            "image_urls": [
-
-            ]
+            "image_urls": ["/public/img/random_quote_generator_square.png", "/public/img/random_quote_generator_1.png", "/public/img/random_quote_generator_2.png", "/public/img/random_quote_generator_3.png"]
         },
         {
             "id": 1,
             "project_name": "list pagination and filter",
             "description": "My second techdegree project",
-            "technologies": ["javascript", "css"],
+            "technologies": ["javascript", "css", "html"],
             "live_link": "",
             "github_link": "https://github.com/melpre/Techdegree-Project-6",
-            "image_urls": [
-
-            ]
+            "image_urls": ["/public/img/list_pagination_filter_square.png", "/public/img/list_pagination_filter_1.png", "/public/img/list_pagination_filter_2.png", "/public/img/list_pagination_filter_3.png"]
         },
         {
             "id": 2,
             "project_name": "interactive form",
             "description": "My third techdegree project",
-            "technologies": ["javascript", "css"],
+            "technologies": ["javascript", "css", "html"],
             "live_link": "",
             "github_link": "https://github.com/melpre/Techdegree-Project-6",
-            "image_urls": [
-
-            ]
+            "image_urls": ["/public/img/interactive_form_square.png", "/public/img/interactive_form_1.png", "/public/img/interactive_form_2.png", "/public/img/interactive_form_3.png"]
         },
         {
             "id": 3,
             "project_name": "phrase hunter game",
             "description": "My fourth techdegree project",
-            "technologies": ["javascript", "css"],
+            "technologies": ["javascript", "css", "html"],
             "live_link": "",
             "github_link": "https://github.com/melpre/Techdegree-Project-6",
-            "image_urls": [
-
-            ]
+            "image_urls": ["/public/img/phrase_hunter_square.png", "/public/img/phrase_hunter_1.png", "/public/img/phrase_hunter_2.png", "/public/img/phrase_hunter_3.png"]
         },
         {
             "id": 4,
             "project_name": "public api requests",
             "description": "My fifth techdegree project",
-            "technologies": ["javascript", "css"],
+            "technologies": ["javascript", "css", "html"],
             "live_link": "",
             "github_link": "https://github.com/melpre/Techdegree-Project-6",
-            "image_urls": [
-
-            ]
+            "image_urls": ["/public/img/public_api_requests_square.png", "/public/img/public_api_requests_1.png", "/public/img/public_api_requests_2.png", "/public/img/public_api_requests_3.png"]
         }
     ]
 }
