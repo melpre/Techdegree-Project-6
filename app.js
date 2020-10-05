@@ -13,7 +13,7 @@ const projectsRoute = require('./routes/project');
 
     app.use(indexRoute);
     app.use(aboutRoute);
-    app.use(projectsRoute);
+    app.use('/projects', projectsRoute);
 
 
     /* Error Handlers */

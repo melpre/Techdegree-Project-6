@@ -1,9 +1,14 @@
 const express = require('express');
 const router = express.Router();
 
-router.get('/projects/:id', (req, res) => {
-    if (projects[req.params.id]) {
-        res.render('project');
+const { projects } = require('../data.json');
+
+/* GET Project Page */
+router.get('/:id', (req, res) => {
+    const { projectId } = req.params.id;
+    const { projectData } = projects[projectId];
+    if (projectId === projectData.id) {
+        res.render('project', { projectData });
       } else {
         const err = new Error();
         err.status = 404;

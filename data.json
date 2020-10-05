@@ -3,47 +3,47 @@
         {
             "id": 0,
             "project_name": "random quote generator",
-            "description": "My first techdegree project",
+            "description": "My first techdegree project: an app that displays random famous quotes each time a button is clicked.",
             "technologies": ["javascript", "css", "html"],
             "live_link": "",
-            "github_link": "https://github.com/melpre/Techdegree-Project-6",
-            "image_urls": ["/public/img/random_quote_generator_square.png", "/public/img/random_quote_generator_1.png", "/public/img/random_quote_generator_2.png", "/public/img/random_quote_generator_3.png"]
+            "github_link": "https://github.com/melpre/Techdegree-Project-1",
+            "image_urls": ["/static/img/random_quote_generator_square.png", "/static/img/random_quote_generator_1.png", "/static/img/random_quote_generator_2.png", "/static/img/random_quote_generator_3.png"]
         },
         {
             "id": 1,
             "project_name": "list pagination and filter",
-            "description": "My second techdegree project",
+            "description": "My second techdegree project: a web page that uses 'pagination' to enhance its usability. It displays 10 names at a time and includes a navigation system to let users click through the other entry names, 10 at a time.",
             "technologies": ["javascript", "css", "html"],
             "live_link": "",
-            "github_link": "https://github.com/melpre/Techdegree-Project-6",
-            "image_urls": ["/public/img/list_pagination_filter_square.png", "/public/img/list_pagination_filter_1.png", "/public/img/list_pagination_filter_2.png", "/public/img/list_pagination_filter_3.png"]
+            "github_link": "https://github.com/melpre/Techdegree-Project-2",
+            "image_urls": ["/static/img/list_pagination_filter_square.png", "/static/img/list_pagination_filter_1.png", "/static/img/list_pagination_filter_2.png", "/static/img/list_pagination_filter_3.png"]
         },
         {
             "id": 2,
             "project_name": "interactive form",
-            "description": "My third techdegree project",
-            "technologies": ["javascript", "css", "html"],
+            "description": "My third techdegree project: enhancement of a registration form by adding customized and conditional behavior and interactivity, validation of user input, and provides helpful error messages when the user enters invalid information into the form fields.",
+            "technologies": ["javascript", "css", "html", "jquery"],
             "live_link": "",
-            "github_link": "https://github.com/melpre/Techdegree-Project-6",
-            "image_urls": ["/public/img/interactive_form_square.png", "/public/img/interactive_form_1.png", "/public/img/interactive_form_2.png", "/public/img/interactive_form_3.png"]
+            "github_link": "https://github.com/melpre/Techdegree-Project-3",
+            "image_urls": ["/static/img/interactive_form_square.png", "/static/img/interactive_form_1.png", "/static/img/interactive_form_2.png", "/static/img/interactive_form_3.png"]
         },
         {
             "id": 3,
             "project_name": "phrase hunter game",
-            "description": "My fourth techdegree project",
-            "technologies": ["javascript", "css", "html"],
+            "description": "My fourth techdegree project: a browser-based, word guessing game: 'Phrase Hunter' that uses object-oriented programming.",
+            "technologies": ["javascript", "css", "html", "oop"],
             "live_link": "",
-            "github_link": "https://github.com/melpre/Techdegree-Project-6",
-            "image_urls": ["/public/img/phrase_hunter_square.png", "/public/img/phrase_hunter_1.png", "/public/img/phrase_hunter_2.png", "/public/img/phrase_hunter_3.png"]
+            "github_link": "https://github.com/melpre/Techdegree-Project-4",
+            "image_urls": ["/static/img/phrase_hunter_square.png", "/static/img/phrase_hunter_1.png", "/static/img/phrase_hunter_2.png", "/static/img/phrase_hunter_3.png"]
         },
         {
             "id": 4,
             "project_name": "public api requests",
-            "description": "My fifth techdegree project",
-            "technologies": ["javascript", "css", "html"],
+            "description": "My fifth techdegree project: an app that communicates with the Random User Generator API that dynamically pulls data to build an employee directory.",
+            "technologies": ["javascript", "css", "html", "rest api"],
             "live_link": "",
-            "github_link": "https://github.com/melpre/Techdegree-Project-6",
-            "image_urls": ["/public/img/public_api_requests_square.png", "/public/img/public_api_requests_1.png", "/public/img/public_api_requests_2.png", "/public/img/public_api_requests_3.png"]
+            "github_link": "https://github.com/melpre/Techdegree-Project-5",
+            "image_urls": ["/static/img/public_api_requests_square.png", "/static/img/public_api_requests_1.png", "/static/img/public_api_requests_2.png", "/static/img/public_api_requests_3.png"]
         }
     ]
 }
