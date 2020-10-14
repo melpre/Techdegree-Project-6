@@ -148,3 +148,23 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+
+/* Style Changes Added */
+.portfolio-me{
+  background: #2a1b3d;
+}
+
+h1,h2,h3,h4,h5,p{
+  font-family: 'Tahoma', 'Geneva', sans-serif;
+}
+
+.portfolio-index .thumbnail{
+  box-shadow: 2px 5px #a4b3b6;
+}
+
+
+
+
+
+
+

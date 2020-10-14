@@ -3,7 +3,7 @@
         {
             "id": 0,
             "project_name": "random quote generator",
-            "description": "My first techdegree project: an app that displays random famous quotes each time a button is clicked.",
+            "description": "My first techdegree project: a web application that displays random famous quotes each time a button is clicked.",
             "technologies": ["javascript", "css", "html"],
             "live_link": "",
             "github_link": "https://github.com/melpre/Techdegree-Project-1",
@@ -21,7 +21,7 @@
         {
             "id": 2,
             "project_name": "interactive form",
-            "description": "My third techdegree project: enhancement of a registration form by adding customized and conditional behavior and interactivity, validation of user input, and provides helpful error messages when the user enters invalid information into the form fields.",
+            "description": "My third techdegree project: a registration form with customized and conditional behavior and interactivity. It validates user input and provides helpful error messages.",
             "technologies": ["javascript", "css", "html", "jquery"],
             "live_link": "",
             "github_link": "https://github.com/melpre/Techdegree-Project-3",
@@ -30,7 +30,7 @@
         {
             "id": 3,
             "project_name": "phrase hunter game",
-            "description": "My fourth techdegree project: a browser-based, word guessing game: 'Phrase Hunter' that uses object-oriented programming.",
+            "description": "My fourth techdegree project: a browser-based, word guessing game called 'Phrase Hunter' that uses object-oriented programming.",
             "technologies": ["javascript", "css", "html", "oop"],
             "live_link": "",
             "github_link": "https://github.com/melpre/Techdegree-Project-4",
@@ -39,7 +39,7 @@
         {
             "id": 4,
             "project_name": "public api requests",
-            "description": "My fifth techdegree project: an app that communicates with the Random User Generator API that dynamically pulls data to build an employee directory.",
+            "description": "My fifth techdegree project: an application that communicates with the Random User Generator API and dynamically pulls data to build an employee directory.",
             "technologies": ["javascript", "css", "html", "rest api"],
             "live_link": "",
             "github_link": "https://github.com/melpre/Techdegree-Project-5",

@@ -4,29 +4,20 @@ block content
   article.grid-container.portfolio-intro
     div
 
+      //- Title
       h1 My Portfolio
  
+      //- Description
       p.lead.text-light
         | Welcome! Here you will find a plethora of projects demonstrating my awesome development skills. They incorporate JavaScript, HTML and CSS languages, as well as utilize popular frameworks such as Express, JavaScript runtime Node.js and various libraries. 
   article.grid-container.portfolio-index
     
     .grid-x.grid-margin-x.small-up-2.medium-up-2.large-up-3
     
+      //- Populate each project data into template
       each project in projects
         .cell
           a(href=`/projects/${project.id}`)
             img.thumbnail(src=`${project.image_urls[0]}`)
             h5= project.project_name
 
-
-      //- Use the Pug `each` iterator to create a project img, title and link in the markup for each of the projects you are showcasing.
-
-      //- Use a combination of interpolation and template literals as needed to dynamically generate the routes in the href, as well as the img's src and the projects title.
-
-      //- Here's what the Pug for each project example should look like. 
-
-      //- .cell
-      //-   a(href='#')
-      //-     img.thumbnail(src='https://placehold.it/550x550')
-      //-     h5 Title
-      

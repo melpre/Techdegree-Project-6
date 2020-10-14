@@ -31,7 +31,10 @@ const projectsRoute = require('./routes/project');
     // Global error handler
     app.use((err, req, res, next) => {
         if (err.status === 404) {
-            res.status(err.status).render('error', { err } );
+            console.log('404 error handler called', err);
+            res.locals.error = err;
+            err.message = 'Page not found!';
+            res.status(err.status).render('not-found', { err } );
         } else {
             console.log('Global error handler called', err);
             res.locals.error = err;
