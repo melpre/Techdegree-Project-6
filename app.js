@@ -34,7 +34,7 @@ const projectsRoute = require('./routes/project');
             console.log('404 error handler called', err);
             res.locals.error = err;
             err.message = 'Page not found!';
-            res.status(err.status).render('not-found', { err } );
+            res.status(err.status).render('page-not-found', { err } );
         } else {
             console.log('Global error handler called', err);
             res.locals.error = err;
